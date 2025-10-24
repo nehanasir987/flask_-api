@@ -1,4 +1,4 @@
-# 👤 Flask User Management API
+# Flask User Management API
 
 ![User Management Banner](https://via.placeholder.com/900x250.png?text=Flask+User+Management+API)
 
